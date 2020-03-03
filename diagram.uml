@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-131.0" y="-88.0">com.company.ThePoint</node>
+    <node x="45.0" y="253.0">com.company.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Main" target="com.company.ThePoint">
+      <point x="41.5" y="-26.5" />
+      <point x="169.5" y="228.0" />
+      <point x="192.0" y="228.0" />
+      <point x="64.0" y="101.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="214.5" y="50.5" />
+  <SelectedNodes>
+    <node>com.company.ThePoint</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
